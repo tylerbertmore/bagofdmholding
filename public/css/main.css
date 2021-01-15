@@ -39,3 +39,7 @@ nav ul>li{
     padding: 1em;
     
 }
+nav a{
+    color: white;
+    text-decoration: none;
+}
